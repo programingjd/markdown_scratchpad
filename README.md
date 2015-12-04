@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```ruby
+```js
 'ok'
 ```
