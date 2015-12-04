@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
 ```ini
-passed
+10 passed
 ```
