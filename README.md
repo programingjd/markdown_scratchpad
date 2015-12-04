@@ -1,5 +1,9 @@
 # markdown_scratchpad
 
-```profile
+```ini
 passed=all
+```
+
+```diff
++++passed
 ```
