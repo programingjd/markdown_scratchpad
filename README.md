@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```js
+```ruby
 require a
 ```
