@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```bash
-"ok"
+```ini
+passed=ok
 ```
