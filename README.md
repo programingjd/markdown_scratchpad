@@ -6,4 +6,6 @@ passed=all
 
 ```diff
 + passed +
+
+- failed -
 ```
