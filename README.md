@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```ini
+```profile
 passed=all
 ```
