@@ -12,6 +12,6 @@ passed=all
 
 
 ```diff
-    test name + passed
-    test name - failed
+    + test name passed
+    - test name failed
 ```
