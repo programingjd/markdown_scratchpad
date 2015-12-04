@@ -5,5 +5,5 @@ passed=all
 ```
 
 ```diff
-+ passed
+passed
 ```
