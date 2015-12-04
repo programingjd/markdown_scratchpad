@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```asp
-test
+```js
+require a
 ```
