@@ -9,3 +9,9 @@ passed=all
 
 - failed -
 ```
+
+
+```diff
+    test name + passed
+    test name - failed
+```
