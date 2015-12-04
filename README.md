@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
 ```java
-'ok'
+"ok"
 ```
