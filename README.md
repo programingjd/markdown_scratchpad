@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```aspx
+```asp
 test
 ```
