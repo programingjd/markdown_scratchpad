@@ -1,5 +1,5 @@
 # markdown_scratchpad
 
-```au3
+```css
 test
 ```
